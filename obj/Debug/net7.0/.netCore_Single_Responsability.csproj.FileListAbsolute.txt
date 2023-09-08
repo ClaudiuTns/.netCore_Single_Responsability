@@ -1,0 +1,14 @@
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\bin\Debug\net7.0\.netCore_Single_Responsability.exe
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\bin\Debug\net7.0\.netCore_Single_Responsability.deps.json
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\bin\Debug\net7.0\.netCore_Single_Responsability.runtimeconfig.json
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\bin\Debug\net7.0\.netCore_Single_Responsability.dll
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\bin\Debug\net7.0\.netCore_Single_Responsability.pdb
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.AssemblyInfoInputs.cache
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.AssemblyInfo.cs
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.csproj.CoreCompileInputs.cache
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.dll
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\refint\.netCore_Single_Responsability.dll
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.pdb
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\.netCore_Single_Responsability.genruntimeconfig.cache
+C:\Users\ClaudiuTanase\Desktop\.netTraining\SOLID_Principles\.netCore_Single_Responsability\obj\Debug\net7.0\ref\.netCore_Single_Responsability.dll
